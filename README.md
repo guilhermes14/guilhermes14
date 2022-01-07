@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/49844284/148474410-4fdc4c07-b478-4664-9fc6-116701c05f0a.png)
+![banner](https://user-images.githubusercontent.com/49844284/148474410-4fdc4c07-b478-4664-9fc6-116701c05f0a.png)
 
 <h1 align="center">Olá, meu nome é Guilherme Saraiva</h1>
 <h3 align="center">Sou estudante de Engenharia da Computação, e tenho como foco desenvolvimento Front End e arrisco estudar Blockchain</h3>
