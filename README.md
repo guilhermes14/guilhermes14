@@ -1,6 +1,6 @@
 ![banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wikiart.org%2Fpt%2Fcaravaggio%2Fsao-jeronimo-escrevendo-1605&psig=AOvVaw083tTrB-8LZmfTh4Awk_u8&ust=1641603251258000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjL5ue2nvUCFQAAAAAdAAAAABAD)
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wikiart.org%2Fpt%2Fcaravaggio%2Fsao-jeronimo-escrevendo-1605&psig=AOvVaw083tTrB-8LZmfTh4Awk_u8&ust=1641603251258000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjL5ue2nvUCFQAAAAAdAAAAABAD)
+![alt text](![image](https://user-images.githubusercontent.com/49844284/148473932-113180b4-b87f-49e6-a0a5-bc981c4f57e2.png))
 
 <h1 align="center">Olá, meu nome é Guilherme Saraiva</h1>
 <h3 align="center">Sou estudante de Engenharia da Computação, e tenho como foco desenvolvimento Front End e arrisco estudar Blockchain</h3>
