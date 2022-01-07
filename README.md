@@ -7,7 +7,7 @@
 
 - 📫 Meu email de contato é **guilhermesgc2000@gmail.com**
 
-- 👔 Meu LinkedIn é linkedin.com/in/guilherme-saraiva-gomes-de-carvalho-61b48b186
+- 👔 Meu LinkedIn é **linkedin.com/in/guilherme-saraiva-gomes-de-carvalho-61b48b186**
 
 <p align="left">
 </p>
